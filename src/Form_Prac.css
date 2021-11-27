@@ -1,0 +1,24 @@
+.form{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.no-comment{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.render{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+.border{
+    border-style: solid;
+    border-color: gray;
+    margin:1rem 1rem 1rem 1rem;
+    border-width: 1px;
+}
